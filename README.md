@@ -29,7 +29,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | MOVIE                                                                                      | GENRE                     | YEAR | RATING |
 |--------------------------------------------------------------------------------------------|---------------------------|------|--------|
 | [WarGames: The Dead Code](http://www.imdb.com/title/tt0865957/)                            | Thriller/Drama            | 2008 | 4.5/10 |
-| [WarGames](http://www.imdb.com/title/tt0086567/)                                           | Thriller/Drama            | 1983 | 7.1/10 | 
+| [WarGames](http://www.imdb.com/title/tt0086567/)                                           | Thriller/Drama            | 1983 | 7.1/10 |
 | [Hackers](http://www.imdb.com/title/tt0113243/)                                            | Crime/Drama               | 1995 | 6.2/10 |
 | [Anonymous](http://www.imdb.com/title/tt3173594/)                                          | Crime/Drama/Thriller      | 2016 | 6.4/10 |
 | [Antitrust](http://www.imdb.com/title/tt0218817/)                                          | Thriller/Drama            | 2001 | 6.1/10 |
@@ -53,6 +53,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Live Free or Die Hard](http://www.imdb.com/title/tt0337978/)                              | Thriller/Action           | 2007 | 7.2/10 |
 | [Untraceable](http://www.imdb.com/title/tt0880578/)                                        | Slasher/Thriller          | 2008 | 6.2/10 |
 | [The Imitation Game](http://www.imdb.com/title/tt2084970/)                                 | Drama/Thriller            | 2014 | 8.2/10 |
+| [Source Code](http://www.imdb.com/title/tt0945513/)                                        | Drama/Thriller            | 2011 | 7.5/10 |
 | [Pi](http://www.imdb.com/title/tt0138704/)                                                 | Drama/Mystery             | 1998 | 7.5/10 |
 | [Primer](http://www.imdb.com/title/tt0390384/)                                             | Drama/Thriller            | 2004 | 7.0/10 |
 | [Listening](http://www.imdb.com/title/tt3153582/)                                          | Thriller/Drama            | 2014 | 5.6/10 | 
@@ -76,6 +77,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Transcendence](http://www.imdb.com/title/tt2209764/)                                      | Science Fiction/Drama     | 2014 | 6.3/10 |
 | [Johnny Mnemonic](http://www.imdb.com/title/tt0113481/)                                    | Science fiction/Action    | 1995 | 5.6/10 |
 | [Ghost in the Shell](http://www.imdb.com/title/tt1219827/)                                 | Science fiction/Action    | 2017 | 6.9/10 |
+
 
 ## Action
 
@@ -122,6 +124,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Terms and Conditions May Apply](http://www.imdb.com/title/tt2084953/)                     | Documentary               | 2013 | 7.4/10 |
 | [BBS: The Documentary](http://www.imdb.com/title/tt0460402/)                               | Documentary               | 2005 | 8.7/10 |
 | [Good Copy Bad Copy](http://www.imdb.com/title/tt1782451/)                                 | Documentary               | 2007 | 7.2/10 |
+| [Indie Game: The Movie](http://www.imdb.com/title/tt1942884/)                              | Documentary               | 2012 | 7.7/10 |
 | [Plug and Pray](http://www.imdb.com/title/tt1692889/)                                      | Documentary               | 2010 | 7.2/10 |
 | [In the Realm of the Hackers](http://www.imdb.com/title/tt1199631/)                        | Documentary               | 2003 | 7.4/10 |
 
